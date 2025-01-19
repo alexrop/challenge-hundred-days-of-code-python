@@ -26,3 +26,4 @@ This project uses Python 3.11.4. The following libraries are necessary for runni
 
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
+All material is from this Udemy Course: https://www.udemy.com/course/100-days-of-code/
